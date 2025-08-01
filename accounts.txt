@@ -1,0 +1,9 @@
+BEGIN_ACCOUNT
+Name: arian
+AccountNumber: 1001
+PIN: 1234
+Balance: 271
+History:
+Deposited 200 at Sat Aug 02 01:10:48 2025
+withdrawn  59 at Sat Aug 02 01:11:00 2025
+END_ACCOUNT
